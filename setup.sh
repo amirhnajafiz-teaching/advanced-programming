@@ -20,3 +20,22 @@ cd istio-1.15.0
 
 # add the istioctl client to your path 
 export PATH=$PWD/bin:$PATH
+
+
+# setup istio
+istioctl install --set profile=demo -y
+
+#
+# ✔ Istio core installed
+# ✔ Istiod installed
+# ✔ Egress gateways installed
+# ✔ Ingress gateways installed
+# ✔ Installation complete
+#
+
+# add a namespace label to instruct Istio to automatically inject Envoy sidecar proxies when you deploy your application later
+kubectl label namespace default istio-injection=enabled
+
+#
+# namespace/default labeled
+#
