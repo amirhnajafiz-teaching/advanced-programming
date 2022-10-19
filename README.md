@@ -32,3 +32,29 @@ chmod +x setup.sh
 ```
 
 The following script will install Istio on your system, and will set a namespace on your Minikube.
+
+## Execute
+
+Now that you have installed all of the necessary dependencies, let's execute a demo on **Minikube**. Execute
+the test script.
+
+```shell
+chmod +x test.sh
+
+./test.sh
+```
+
+The following script downloads a demo image named ```samples/bookinfo/platform/kube/bookinfo.yaml``` and runs it
+on **Minikube**. After that it will show you a status of **Minikube** pods.
+
+After that it will check the **Istio** status ```istioctl analyze```, and then brings up **Istio** dashboard for you.
+
+## Stop
+
+When you are done with everything, execute the uninstall script to clear everything.
+
+```shell
+chmod +x uninstall.sh
+
+./uninstall.sh
+```
