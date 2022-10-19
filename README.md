@@ -1,6 +1,6 @@
-<h1 align="center">
-Istio
-</h1>
+<p align="center">
+  <img src="./assets/images.png" alt="logo" width="500" />
+</p>
 
 Create and test **Istio** service mesh on **Minikube**.
 
