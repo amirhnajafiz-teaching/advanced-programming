@@ -7,15 +7,16 @@ subjects.
 
 ## Topics
 
-1. How to design an application?
-2. How to read a project manual.
+1. [How to design an application?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/application/README.md)
+2. [How to read a project manual.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/manual/README.md)
 3. What is ```OOP```?
-4. Clean coding.
-5. ```MVC``` architectur.
-6. What is ```DOM```?
-7. Networking and ```HTTP```.
-8. ```Socket``` programming.
-9. Multithreading and Concurrency.
+4. [Clean coding.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/clean-code/README.md)
+5. [```MVC``` architectur.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/mvc/README.md)
+6. [What is ```DOM```?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/dom/README.md)
+7. [Networking and ```HTTP```.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/network/README.md)
+8. [```Socket``` programming.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
+9. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
+10. Database and SQL.
 
 ## Resources
 
