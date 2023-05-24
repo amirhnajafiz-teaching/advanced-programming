@@ -14,9 +14,8 @@ subjects.
 5. [```MVC``` architectur.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/mvc/README.md)
 6. [What is ```DOM```?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/dom/README.md)
 7. [Networking and ```HTTP```.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/network/README.md)
-8. [```Socket``` programming.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
-9. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
-10. Database and SQL.
+8. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
+9. Database and SQL.
 
 ## Resources
 
