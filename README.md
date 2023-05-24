@@ -22,6 +22,5 @@ subjects.
 - [JavaTPoint for learning Java](https://www.javatpoint.com/java-tutorial)
 - [Learn HTTP](https://www.tutorialspoint.com/http/index.htm)
 - [Our AP Midterm project](https://github.com/amirhnajafiz-university/S2AP04)
-- [Out AP Final project](https://github.com/amirhnajafiz-university/S2AP05)
 - [Rest Client](https://github.com/FarshidNooshi/REST-Client)
 - [SQL](https://www.javatpoint.com/sql-tutorial)
