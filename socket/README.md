@@ -22,3 +22,7 @@ Socket s=ss.accept();//establishes connection and waits for the client
 ```java
 Socket s=new Socket("localhost",6666);  
 ```
+
+## Resources
+
+- [JavaTPoint](https://www.javatpoint.com/socket-programming)
