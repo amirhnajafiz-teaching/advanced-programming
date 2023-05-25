@@ -17,8 +17,9 @@ of this page. There are some code samples, websites, and etc, in order to help y
 2. [How to read a project manual.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/manual/README.md)
 3. What is ```OOP```?
 4. [Clean coding.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/clean-code/README.md)
-5. [```MVC``` architectur.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/mvc/README.md)
-6. [What is ```DOM```?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/dom/README.md)
+5. [Project structure.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/project/README.md)
+6. [```MVC``` architectur.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/mvc/README.md)
+7. [What is ```DOM```?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/dom/README.md)
 8. [Networking and ```HTTP```.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/network/README.md)
 9. [Socket programming.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
 10. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
