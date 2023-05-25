@@ -14,5 +14,5 @@ File myObj = new File("filename.txt"); // Specify the filename
 
 ## Resources
 
-- [](https://www.w3schools.com/java/java_files.asp)
-- [](https://www.geeksforgeeks.org/file-class-in-java/)
+- [Java Files](https://www.w3schools.com/java/java_files.asp)
+- [File class in Java](https://www.geeksforgeeks.org/file-class-in-java/)
