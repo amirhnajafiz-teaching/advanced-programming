@@ -1,5 +1,8 @@
 # Advanced Programming
 
+![](https://img.shields.io/badge/course-ap-yellow)
+![](https://img.shields.io/badge/lang-java-yellowgreen)
+
 In this repository we are going to talk about important topics that students need to know
 when they are taking ```Advanced Programming``` course. Since we are using ```Java``` in
 ```AP``` course, we are going to talk about ```OOP```, ```Clean coding```, and other computer
@@ -25,9 +28,19 @@ of this page. There are some code samples, websites, and etc, in order to help y
 
 ## Resources
 
+### Code Examples
+
+- [Our AP Midterm project](https://github.com/amirhnajafiz-university/S2AP04)
+- [Rest Client](https://github.com/FarshidNooshi/REST-Client)
+- [Java MySQL](https://github.com/FunTimeCoding/java-mysql-example)
+- [Java HTTP server](https://github.com/storytellersoftware/java-httpserver)
+- [Sample HTTP with Java](https://github.com/CoderFromScratch/simple-java-http-server)
+- [Java Threads](https://github.com/jorgeacetozi/java-threads-examples)
+- [Chat Java Example](https://github.com/tanaytoshniwal/Chat-Java)
+
+### Learning Source
+
 - [JavaTPoint for learning Java](https://www.javatpoint.com/java-tutorial)
 - [Learn HTTP](https://www.tutorialspoint.com/http/index.htm)
-- [Our AP Midterm project](https://github.com/amirhnajafiz-university/S2AP04)
 - [Guid to Java Sockets](https://www.baeldung.com/a-guide-to-java-sockets)
-- [Rest Client](https://github.com/FarshidNooshi/REST-Client)
-- [SQL](https://www.javatpoint.com/sql-tutorial)
+- [SQL Tutorial](https://www.javatpoint.com/sql-tutorial)
