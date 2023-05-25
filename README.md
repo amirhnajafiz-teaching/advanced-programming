@@ -16,7 +16,9 @@ subjects.
 8. [Networking and ```HTTP```.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/network/README.md)
 9. [Socket programming](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
 10. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
-11. Database and SQL.
+11. [Using files and I/O.]()
+12. [Config file for application.]()
+13. Database and SQL.
 
 ## Resources
 
