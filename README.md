@@ -5,6 +5,9 @@ when they are taking ```Advanced Programming``` course. Since we are using ```Ja
 ```AP``` course, we are going to talk about ```OOP```, ```Clean coding```, and other computer
 subjects.
 
+Be sure to read each stage before going to next stages. You can also check the resources at the end
+of this page. There are some code samples, websites, and etc, in order to help you write code.
+
 ## Topics
 
 1. [How to design an application?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/application/README.md)
@@ -14,7 +17,7 @@ subjects.
 5. [```MVC``` architectur.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/mvc/README.md)
 6. [What is ```DOM```?](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/dom/README.md)
 8. [Networking and ```HTTP```.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/network/README.md)
-9. [Socket programming](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
+9. [Socket programming.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/socket/README.md)
 10. [Multithreading.](https://github.com/amirhnajafiz-teaching/advanced-programming/blob/master/thread/README.md)
 11. [Using files and I/O.]()
 12. [Config file for application.]()
